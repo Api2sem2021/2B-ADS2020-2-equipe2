@@ -9,6 +9,7 @@
  - Criar uma tela mostrando todos os motoristas cadastrados.
   
 Critério 1: Adicionar um motorista. Ao adicionar um motorita conferir se o mesmo esta presente no Banco de Dados.
+
 Critério 2 :Mostras todos os motoristas em uma tabela com Scrol .
  
 ## US02: Como Administrador quero ser capaz de buscar por um motorista especifico da minha empresa então poderei gerencia-los.
