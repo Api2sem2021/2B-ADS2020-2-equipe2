@@ -26,6 +26,7 @@ Critério 1: Perquisar por nome, CPF e/ou ID.Conferir se o resultado esta corret
  - Criar uma tela mostrando todos os caminhões cadastrados.
  
 Critério 1: Adicionar um caminhão. Ao adicionar um caminhão conferir se o mesmo esta presente no Banco de Dados.
+
 Critério 2 :Mostras todos os caminhões em uma tabela com Scrol .
 
 ## US04:Como Administrador quero ser capaz de buscar por um caminhão especifico da minha empresa então poderei gerencia-los
