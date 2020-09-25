@@ -20,6 +20,10 @@ Critério 2 :Mostras todos os motoristas em uma tabela com Scrol .
 
 Critério 1: Perquisar por nome, CPF e/ou ID.Conferir se o resultado esta correto(quando pesquisado CPF ou ID mostrar somente um resultado).
 
+Prototipo:
+
+![Story User](https://cdn.discordapp.com/attachments/748503719519322153/759103740031664158/unknown.png?raw=true)
+
  
  ## US03: Como Administrador quero ser capaz de cadastrar os caminhões da minha empresa então poderei gerencia-los
 
