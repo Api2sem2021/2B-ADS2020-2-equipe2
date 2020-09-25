@@ -1,10 +1,25 @@
-# Projeto:Jornada de Motorista
+# Sprint 2
 
-Equipe:
-- Letícia Nascimento Santos (Scrum Master)
-- Lucca Santiago Almeida (PO)
-- Gabriel Teixeira Guedes (Dev Team)
-- Giovanna Chiquini Primon (Dev Team)
-- Jonathan Willian Gonçalves Alves (Dev Team)
+# User Storie:
 
-![Story User](https://github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2/blob/master/Story%20cards.jpg?raw=true)
+## US05: Como Administrador quero ser capaz de ver todas as informações de um motorista da minha empresa então poderei gerencia-lo.
+
+ -  Criar Tela do Motorista com suas informações e entregas.
+ 
+   Critério 1 :Mostras todas as informações do motorista.
+   
+## US06: Como Administrador quero ser capaz de ver todas as informações de um caminhão da minha empresa então poderei gerencia-lo.
+
+ -  Criar Tela do Caminhão com suas informações e entregas.
+ 
+   Critério 1 :Mostras todas as informações do Caminhão.
+   
+   
+## US07: Como Administrador quero ser capaz de criar uma entrega relacionando um motorista e um caminhão então poderei gerencia-los.
+
+ -  Criar Tela de Cadastro de entregas.
+ 
+   Critério 1 :adicionar um nova entrega no sistema.Conferir se no banco de dados as informações estão corretas.
+   
+   
+
