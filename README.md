@@ -30,4 +30,7 @@ possíveis adversidades que possam estar ocorrendo com as entregas.
 - Jonathan Willian Gonçalves Alves (Dev Team)
 
 
-![Story User](https://github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2/blob/master/Story%20cards.jpg?raw=true)
+# Cards das Sprints
+
+![Cards das Sprint](https://cdn.discordapp.com/attachments/404074387499646976/759200500905410650/cards.png?raw=true)
+
