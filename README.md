@@ -2,36 +2,34 @@
 # Sprint 0
 
 # BRIEFING 
-FATEC SÃO JOSÉ DOS CAMPOS
-CLIENTE
+### CLIENTE
 Nome da empresa: Iacit (filiais)
+
 Produto: Entregas
+
 Responsável da empresa: Thomas Godoy
+
 Data: 20/09/2020
 
-DADOS DA EMPRESA
-Core Business: Fábrica de software.
-Outros produtos: CNS / ATM, Telemetria, Meteorologia, Defesa e
-segurança pública.
-Pontos positivos da empresa: Versatilidade dos produtos, incentiva a
-inovação e procura o desenvolvimento tecnológico.
-O que diferencia esta empresa da concorrência?: A busca pela inovação
-e qualificação de novos profissionais para o mercado de trabalho.
+### DADOS DA EMPRESA
 
-PÚBLICO-ALVO
+Core Business: Fábrica de software.
+
+Outros produtos: CNS / ATM, Telemetria, Meteorologia, Defesa e segurança pública.
+Pontos positivos da empresa: Versatilidade dos produtos, incentiva a inovação e procura o desenvolvimento tecnológico.
+O que diferencia esta empresa da concorrência?:
+A busca pela inovação e qualificação de novos profissionais para o mercado de trabalho.
+
+### PÚBLICO-ALVO
 Idade: -
 Sexo: Masculino e feminino
 Tipo: Empresas
 Região: São Paulo, Brasil.
 
-OBJETIVOS DO PROJETO
-Criação de um sistema de gerenciamento de entregas, onde será possível
-que as filiais tenham controle de que seus funcionários estão cumprindo
+### OBJETIVOS DO PROJETO
+Criação de um sistema de gerenciamento de entregas, onde será possível que as filiais tenham controle de que seus funcionários estão cumprindo todas as regras e normas imposta sobre eles, assim como melhorar possíveis adversidades que possam estar ocorrendo com as entregas.
 
-todas as regras e normas imposta sobre eles, assim como melhorar
-possíveis adversidades que possam estar ocorrendo com as entregas.
-
-PRAZOS PARA A REALIZAÇÃO DO TRABALHO
+### PRAZOS PARA A REALIZAÇÃO DO TRABALHO
 O trabalho foi dividido em três sprints de três semanas, assim tendo uma
 duração de 3 meses e prazo máximo definido para o dia 29 de novembro.
 Outras informações
