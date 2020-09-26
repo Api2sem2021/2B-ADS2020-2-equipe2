@@ -23,9 +23,12 @@ O que diferencia esta empresa da concorrência?
 A busca pela inovação e qualificação de novos profissionais para o mercado de trabalho.
 
 ### PÚBLICO-ALVO
-Idade: -
+Idade: - 
+
 Sexo: Masculino e feminino
+
 Tipo: Empresas
+
 Região: São Paulo, Brasil.
 
 ### OBJETIVOS DO PROJETO
@@ -34,7 +37,7 @@ Criação de um sistema de gerenciamento de entregas, onde será possível que a
 ### PRAZOS PARA A REALIZAÇÃO DO TRABALHO
 O trabalho foi dividido em três sprints de três semanas, assim tendo uma
 duração de 3 meses e prazo máximo definido para o dia 29 de novembro.
-Outras informações
+### Outras informações
 A empresa oferece diversos produtos, porém o projeto trabalha em cima da
 fábrica de software, assim desenvolvendo um software para as filiais da
 empresa, em busca de solucionar o problema nas entregas feitas por
