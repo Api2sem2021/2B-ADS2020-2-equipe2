@@ -48,6 +48,12 @@ caminhões das filiais.
 
 ![Story User](https://cdn.discordapp.com/attachments/255045329081073684/759419030456500244/56.jpg?raw=true)
 
+
+# Protótipo -> Figma:
+
+## https://www.figma.com/proto/UVYWQDmu3b7KXbuY3Fjq3I/Untitled?node-id=0%3A1&scaling=min-zoom
+
+
 ## Backlog
 
 
