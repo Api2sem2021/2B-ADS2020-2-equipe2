@@ -1,9 +1,6 @@
 
 # Sprint 0
 
-## Backlog
-
-
 # DER
 
 ![Story User](https://cdn.discordapp.com/attachments/255045329081073684/759419030456500244/56.jpg?raw=true)
