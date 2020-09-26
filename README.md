@@ -1,6 +1,7 @@
 
 # Sprint 0
 
+
 # DER
 
 ![Story User](https://cdn.discordapp.com/attachments/255045329081073684/759419030456500244/56.jpg?raw=true)
