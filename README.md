@@ -23,7 +23,7 @@ O que diferencia esta empresa da concorrência?
 A busca pela inovação e qualificação de novos profissionais para o mercado de trabalho.
 
 ### PÚBLICO-ALVO
-Idade: - 
+Idade: -
 
 Sexo: Masculino e feminino
 
