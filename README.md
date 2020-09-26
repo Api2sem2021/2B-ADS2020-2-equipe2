@@ -11,15 +11,17 @@ possíveis adversidades que possam estar ocorrendo com as entregas.
 
 ## Engenharia de Software
 
-- Prof. Me. Giuliano Araujo Bertoti
+- Prof. Me. Juliana Forin PAsquini Martinez
+          
 
 ## Sistemas de Informações
 
-- Prof. Me. José Walmir Gonçalves Duque
+- Prof. Me. Reinaldo Gen Ichiro Arakaki Claudio Etelvino De Lima
+     
 
 ## Linguagem de Programação
 
-- Profª. Ma. Juliana Forin Pasquini Martiniz
+- Profª. Ma. Reinaldo Gen Ichiro Arakaki
 
 # Equipe:
 
