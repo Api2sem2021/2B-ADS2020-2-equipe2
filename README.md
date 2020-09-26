@@ -17,7 +17,8 @@ Core Business: Fábrica de software.
 
 Outros produtos: CNS / ATM, Telemetria, Meteorologia, Defesa e segurança pública.
 Pontos positivos da empresa: Versatilidade dos produtos, incentiva a inovação e procura o desenvolvimento tecnológico.
-O que diferencia esta empresa da concorrência?:
+O que diferencia esta empresa da concorrência?
+
 A busca pela inovação e qualificação de novos profissionais para o mercado de trabalho.
 
 ### PÚBLICO-ALVO
