@@ -44,9 +44,10 @@ empresa, em busca de solucionar o problema nas entregas feitas por
 caminhões das filiais.
 
 
-# DER
+# DER & MER
 
-![Story User](https://cdn.discordapp.com/attachments/255045329081073684/759419030456500244/56.jpg?raw=true)
+![MER](https://cdn.discordapp.com/attachments/255045329081073684/759419030456500244/56.jpg?raw=true)
+![DER](https://cdn.discordapp.com/attachments/255045329081073684/759450891282546740/logiciTeste1.jpg?raw=true)
 
 
 # Protótipo -> Figma:
