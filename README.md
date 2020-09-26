@@ -1,7 +1,6 @@
 
 # Sprint 0
 
-
 # DER
 
 ![Story User](https://cdn.discordapp.com/attachments/255045329081073684/759419030456500244/56.jpg?raw=true)
@@ -16,7 +15,7 @@
  
 Critério 1: Adicionar um motorista. Ao adicionar um motorita conferir se o mesmo esta presente no Banco de Dados.
 
-Critério 2 :Mostras todos os motoristas em uma tabela com Scrol .
+Critério 2: Mostras todos os motoristas em uma tabela com Scroll.
 
 ### US02: Como Administrador quero ser capaz de buscar por um motorista especifico da minha empresa então poderei gerencia-los.
 - Na tela mostrando todos os motoristas cadastrados criar método de pesquisa por nome, CPF e/ou ID.
@@ -31,7 +30,7 @@ Critério 1: Perquisar por nome, CPF e/ou ID.Conferir se o resultado esta corret
  
  Critério 1: Adicionar um caminhão. Ao adicionar um caminhão conferir se o mesmo esta presente no Banco de Dados.
  
-Critério 2 :Mostras todos os caminhões em uma tabela com Scrol .
+Critério 2: Mostras todos os caminhões em uma tabela com Scroll.
 
 ### US04: Como Administrador quero ser capaz de buscar por um caminhão especifico da minha empresa então poderei gerencia-los
 
@@ -46,20 +45,20 @@ Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta co
 
  -  Criar Tela do Motorista com suas informações e entregas.
  
-   Critério 1 :Mostras todas as informações do motorista.
+   Critério 1: Mostras todas as informações do motorista.
    
 ### US06: Como Administrador quero ser capaz de ver todas as informações de um caminhão da minha empresa então poderei gerencia-lo.
 
  -  Criar Tela do Caminhão com suas informações e entregas.
  
-   Critério 1 :Mostras todas as informações do Caminhão.
+   Critério 1: Mostras todas as informações do Caminhão.
    
    
 ### US07: Como Administrador quero ser capaz de criar uma entrega relacionando um motorista e um caminhão então poderei gerencia-los.
 
  -  Criar Tela de Cadastro de entregas.
  
-   Critério 1 :adicionar um nova entrega no sistema.Conferir se no banco de dados as informações estão corretas.
+   Critério 1: adicionar um nova entrega no sistema. Conferir se no banco de dados as informações estão corretas.
    
 
 ### US08: Como Adminstrador quero ser capaz de reconfigurar a escala do motorista(turno, carga horária diária, dias de trabalho e folga) então posso deixa-lo da melhor forma possivel no momento atual
@@ -68,7 +67,7 @@ Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta co
  
  Dependencias: US05-> - Criar Tela do Motorista com suas informações e entregas.
 
-Critério 1: Poder salvar e alterar a escala de trabalho do motorista.Atualizar a pagina para ver se a tal mudança foi feita.
+Critério 1: Poder salvar e alterar a escala de trabalho do motorista. Atualizar a pagina para ver se a tal mudança foi feita.
 
 ### US09: Como Adminstrador quero ser capaz de verificar os problemas nas entregas então estarei ciente do que aconteceu na entrega
 
@@ -77,13 +76,13 @@ Critério 1: Poder salvar e alterar a escala de trabalho do motorista.Atualizar 
 Critério 1: listar as entregas com problemas.
 Observações: Utilizar icones intuitivos.
 
-### US10: Como Adminstrador quero ser capaz de verificar a localização do motorista então estarei sabendo o progreço da entrega.
+### US10: Como Adminstrador quero ser capaz de verificar a localização do motorista então estarei sabendo o progresso da entrega.
 
 - Na tela do motorista(US05) mostrar ultima localização do motorista.
 
 Dependencias: US05-> - Criar Tela do Motorista com suas informações e entregas.
 
-Critério 1: Mostrar ultima localização do motorista.Conferir se os dados estão corretos.
+Critério 1: Mostrar ultima localização do motorista. Conferir se os dados estão corretos.
 
 
 
