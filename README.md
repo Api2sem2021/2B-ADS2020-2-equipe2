@@ -28,7 +28,6 @@ possíveis adversidades que possam estar ocorrendo com as entregas.
 - Letícia Nascimento Santos (Scrum Master)
 - Lucca Santiago Almeida (PO)
 - Gabriel Teixeira Guedes (Dev Team)
-- Giovanna Chiquini Primon (Dev Team)
 - Jonathan Willian Gonçalves Alves (Dev Team)
 
 
