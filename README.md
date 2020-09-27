@@ -111,7 +111,7 @@ Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta co
    Critério 1: adicionar um nova entrega no sistema. Conferir se no banco de dados as informações estão corretas.
    
 
-### US08: Como Adminstrador quero ser capaz de reconfigurar a escala do motorista(turno, carga horária diária, dias de trabalho e folga) então posso deixa-lo da melhor forma possivel no momento atual
+### US08: Como Administrador quero ser capaz de reconfigurar a escala do motorista(turno, carga horária diária, dias de trabalho e folga) então posso deixa-lo da melhor forma possivel no momento atual
 
  - Na tela do motorista(US05) desenvolver metodo de alterar  a escala do motorista.
  
@@ -119,14 +119,14 @@ Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta co
 
 Critério 1: Poder salvar e alterar a escala de trabalho do motorista. Atualizar a pagina para ver se a tal mudança foi feita.
 
-### US09: Como Adminstrador quero ser capaz de verificar os problemas nas entregas então estarei ciente do que aconteceu na entrega
+### US09: Como Administrador quero ser capaz de verificar os problemas nas entregas então estarei ciente do que aconteceu na entrega
 
  - Criar tela listando as entregas com problemas
 
 Critério 1: listar as entregas com problemas.
 Observações: Utilizar icones intuitivos.
 
-### US10: Como Adminstrador quero ser capaz de verificar a localização do motorista então estarei sabendo o progresso da entrega.
+### US10: Como Administrador quero ser capaz de verificar a localização do motorista então estarei sabendo o progresso da entrega.
 
 - Na tela do motorista(US05) mostrar ultima localização do motorista.
 
