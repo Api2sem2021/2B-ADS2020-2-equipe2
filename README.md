@@ -11,17 +11,17 @@ possíveis adversidades que possam estar ocorrendo com as entregas.
 
 ## Engenharia de Software
 
-- Prof. Me. Juliana Forin PAsquini Martinez
+- Profª. Ma. Juliana Forin PAsquini Martinez
           
 
 ## Sistemas de Informações
 
-- Prof. Me. Reinaldo Gen Ichiro Arakaki Claudio Etelvino De Lima
+- Prof. Me. Claudio Etelvino De Lima
      
 
 ## Linguagem de Programação
 
-- Profª. Ma. Reinaldo Gen Ichiro Arakaki
+- Prof. Me. Reinaldo Gen Ichiro Arakaki
 
 # Equipe:
 
