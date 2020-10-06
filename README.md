@@ -11,7 +11,7 @@ possíveis adversidades que possam estar ocorrendo com as entregas.
 
 ## Engenharia de Software
 
-- Profª. Ma. Juliana Forin PAsquini Martinez
+- Profª. Ma. Juliana Forin Pasquini Martinez
           
 
 ## Sistemas de Informações
