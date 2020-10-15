@@ -22,7 +22,7 @@ Critério 1: Perquisar por nome, CPF e/ou ID.Conferir se o resultado esta corret
 
 Prototipo:
 
-![Story User](https://media.discordapp.net/attachments/760470540561022986/766289978316554250/unknown.png?width=954&height=676?raw=true)
+![Story User](https://cdn.discordapp.com/attachments/760470540561022986/766289978316554250/unknown.png?raw=true)
 
  
  ## US03: Como Administrador quero ser capaz de cadastrar os caminhões da minha empresa então poderei gerencia-los
