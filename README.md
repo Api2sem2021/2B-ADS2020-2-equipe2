@@ -22,7 +22,7 @@ Critério 1: Perquisar por nome, CPF e/ou ID.Conferir se o resultado esta corret
 
 Prototipo:
 
-![Story User](https://cdn.discordapp.com/attachments/748503719519322153/759103740031664158/unknown.png?raw=true)
+![Story User](https://media.discordapp.net/attachments/760470540561022986/766289978316554250/unknown.png?width=954&height=676?raw=true)
 
  
  ## US03: Como Administrador quero ser capaz de cadastrar os caminhões da minha empresa então poderei gerencia-los
@@ -43,5 +43,5 @@ Dependencias: US03-> - Criar uma tela mostrando todos os motoristas cadastrados.
 Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta correto(quando pesquisado Placa ou ID mostrar somente um resultado).
 
 Prototipo:
-![Story User](https://cdn.discordapp.com/attachments/748503719519322153/759105598595268658/unknown.png?raw=true)
+![Story User](https://cdn.discordapp.com/attachments/760470540561022986/766289849929039893/unknown.png?raw=true)
 
