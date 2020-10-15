@@ -46,7 +46,7 @@ caminhões das filiais.
 
 # DER & MER
 
-![MER](https://cdn.discordapp.com/attachments/255045329081073684/759419030456500244/56.jpg?raw=true)
+![MER](https://cdn.discordapp.com/attachments/748503719519322153/766283965291429898/MicrosoftTeams-image.png)
 ![DER](https://cdn.discordapp.com/attachments/255045329081073684/759450891282546740/logiciTeste1.jpg?raw=true)
 
 
