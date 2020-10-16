@@ -1,6 +1,11 @@
 
 # Sprint 1
 
+
+# Diagrama de caso de uso:
+![diagrama](https://cdn.discordapp.com/attachments/748503719519322153/766693424610803742/unknown.png?raw=true)
+
+
 # User Storie:
 
 ## US01: Como Administrador quero ser capaz de cadastrar os motoristas da minha empresa então poderei gerencia-los
