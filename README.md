@@ -72,7 +72,7 @@ Tela do cadastro motorista efetuado:
 ![](https://cdn.discordapp.com/attachments/748503719519322153/767507151043690536/unknown.png?raw=true)
 
 ## Programa Funcionando:
-![gif](https://im3.ezgif.com/tmp/ezgif-3-6c5a8d44b401.gif)
+![gif](https://im3.ezgif.com/tmp/ezgif-3-dc6048f3a03c.gif)
 
 # Arquivos do projeto:
 https://drive.google.com/drive/folders/1MIwi-hwUciItZ8opkP5ItcXgDtHxYd1-?usp=sharing
