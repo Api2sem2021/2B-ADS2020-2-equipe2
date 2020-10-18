@@ -43,5 +43,5 @@ Dependencias: US03-> - Criar uma tela mostrando todos os motoristas cadastrados.
 
 Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta correto(quando pesquisado Placa ou ID mostrar somente um resultado).
 
-![Story User](https://giphy.com/gifs/lieSIRPCQWKyU2pM6e?raw=true)
+![Story User](https://media.giphy.com/media/lieSIRPCQWKyU2pM6e/giphy.gifraw=true)
 
