@@ -33,5 +33,5 @@ possíveis adversidades que possam estar ocorrendo com as entregas.
 
 # Cards das Sprints
 
-![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/766304041075998720/unknown.png)
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/767523541817884682/unknown.png)
 
