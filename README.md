@@ -1,6 +1,6 @@
 
 # Sprint 1
-
+![diagrama](https://cdn.discordapp.com/attachments/748503719519322153/767309463798546463/unknown.png?raw=true)
 
 # Diagrama de caso de uso:
 ![diagrama](https://cdn.discordapp.com/attachments/748503719519322153/766693424610803742/unknown.png?raw=true)
@@ -42,6 +42,8 @@ Critério 2 :Mostras todos os caminhões em uma tabela com Scrol .
 Dependencias: US03-> - Criar uma tela mostrando todos os motoristas cadastrados.
 
 Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta correto(quando pesquisado Placa ou ID mostrar somente um resultado).
+
+#Sprint finalizada:
 
 ![gif](https://media.giphy.com/media/lieSIRPCQWKyU2pM6e/giphy.gif)
 
