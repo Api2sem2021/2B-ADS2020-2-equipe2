@@ -62,11 +62,13 @@ Tela do motorista:
 ![](https://cdn.discordapp.com/attachments/748503719519322153/767502064568762398/unknown.png?raw=true)
 Alterando dados:
 ![](https://cdn.discordapp.com/attachments/748503719519322153/767502219197022258/unknown.png?raw=true)
-Excluindo cadastro:
+Excluindo cadastro do veículo:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767519377150050344/unknown.png?raw=true)
+Excluindo cadastro do motorista:
 ![](https://cdn.discordapp.com/attachments/748503719519322153/767502791999488100/unknown.png?raw=true)
-Tela do cadastro:
+Tela do cadastro do motorista:
 ![](https://cdn.discordapp.com/attachments/748503719519322153/767502865568366612/unknown.png?raw=true)
-Tela do cadastro efetuado:
+Tela do cadastro motorista efetuado:
 ![](https://cdn.discordapp.com/attachments/748503719519322153/767507151043690536/unknown.png?raw=true)
 
 ## Programa Funcionando
