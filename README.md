@@ -50,7 +50,25 @@ Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta co
 
 ## Telas:
 Tela de login:
-!(https://cdn.discordapp.com/attachments/748503719519322153/767501347107897345/unknown.png?raw=true)
+![](https://cdn.discordapp.com/attachments/748503719519322153/767501347107897345/unknown.png?raw=true)
+Tela Principal:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png?raw=true)
+Telas intermediarias:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767501799011516456/unknown.png?raw=true)
+![](https://cdn.discordapp.com/attachments/748503719519322153/767501875767410719/unknown.png?raw=true)
+Tela listando motoristas:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767501961187557376/unknown.png?raw=true)
+Tela do motorista:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767502064568762398/unknown.png?raw=true)
+Alterando dados:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767502219197022258/unknown.png?raw=true)
+Excluindo cadastro:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767502791999488100/unknown.png?raw=true)
+Tela do cadastro:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767502865568366612/unknown.png?raw=true)
+Tela do cadastro efetuado:
+![](https://cdn.discordapp.com/attachments/748503719519322153/767507151043690536/unknown.png?raw=true)
+
 
 ![gif](https://media.giphy.com/media/lieSIRPCQWKyU2pM6e/giphy.gif)
 
