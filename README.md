@@ -73,6 +73,8 @@ Tela do cadastro motorista efetuado:
 
 ## Programa Funcionando:
 ![gif](https://im3.ezgif.com/tmp/ezgif-3-dc6048f3a03c.gif)
+![gif](https://im3.ezgif.com/tmp/ezgif-3-e31ae886bce6.gif)
+
 
 # Arquivos do projeto:
 https://drive.google.com/drive/folders/1MIwi-hwUciItZ8opkP5ItcXgDtHxYd1-?usp=sharing
