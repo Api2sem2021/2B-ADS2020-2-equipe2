@@ -25,10 +25,6 @@ Critério 2 :Mostras todos os motoristas em uma tabela com Scrol .
 
 Critério 1: Perquisar por nome, CPF e/ou ID.Conferir se o resultado esta correto(quando pesquisado CPF ou ID mostrar somente um resultado).
 
-Prototipo:
-
-![Story User](https://cdn.discordapp.com/attachments/760470540561022986/766289978316554250/unknown.png?raw=true)
-
  
  ## US03: Como Administrador quero ser capaz de cadastrar os caminhões da minha empresa então poderei gerencia-los
 
@@ -47,6 +43,5 @@ Dependencias: US03-> - Criar uma tela mostrando todos os motoristas cadastrados.
 
 Critério 1: Perquisar por Placa, Modelo e/ou ID.Conferir se o resultado esta correto(quando pesquisado Placa ou ID mostrar somente um resultado).
 
-Prototipo:
-![Story User](https://cdn.discordapp.com/attachments/760470540561022986/766289849929039893/unknown.png?raw=true)
+![Story User](https://giphy.com/gifs/lieSIRPCQWKyU2pM6e?raw=true)
 
