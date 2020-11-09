@@ -1,4 +1,5 @@
 # Sprint 2
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775169676464095283/unknown.png)
 
 # User Storie:
 
@@ -21,5 +22,12 @@
  
    Critério 1 :adicionar um nova entrega no sistema.Conferir se no banco de dados as informações estão corretas.
    
-   
+# Diagramas de caso de uso   
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159709157163048/unknown.png)
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159790191378452/unknown.png)
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159856872292392/unknown.png)
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159913579413514/unknown.png)
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159982752268298/unknown.png)
+![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775160592822173706/unknown.png)
+
 
