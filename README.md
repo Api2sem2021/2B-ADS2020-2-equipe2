@@ -22,12 +22,21 @@
  
    Critério 1 :adicionar um nova entrega no sistema.Conferir se no banco de dados as informações estão corretas.
    
-# Diagramas de caso de uso   
+# Diagramas de Classe
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159709157163048/unknown.png)
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159790191378452/unknown.png)
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159856872292392/unknown.png)
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159913579413514/unknown.png)
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159982752268298/unknown.png)
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775160592822173706/unknown.png)
+
+
+Vídeo do programa funcionando
+
+[![Watch the video](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png)](https://drive.google.com/file/d/1SGyTxG4Z9723u_FH5SWndtdmvuLje1AI/view?usp=sharing)
+
+
+
+
 
 
