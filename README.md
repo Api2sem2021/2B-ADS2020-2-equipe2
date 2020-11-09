@@ -29,6 +29,7 @@ possíveis adversidades que possam estar ocorrendo com as entregas.
 - Lucca Santiago Almeida (PO)
 - Gabriel Teixeira Guedes (Dev Team)
 - Jonathan Willian Gonçalves Alves (Dev Team)
+- Willian Rodrigues Silva(Dev Team)
 
 
 # Cards das Sprints
