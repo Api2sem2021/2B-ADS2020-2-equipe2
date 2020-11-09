@@ -30,6 +30,10 @@
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775159982752268298/unknown.png)
 ![Cards das Sprint](https://cdn.discordapp.com/attachments/748503719519322153/775160592822173706/unknown.png)
 
+# Burndown
+
+![Cards das Sprint](https://cdn.discordapp.com/attachments/404074387499646976/775308174257422356/unknown.png)
+
 
 Vídeo do programa funcionando
 
