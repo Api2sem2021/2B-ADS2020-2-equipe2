@@ -17,7 +17,7 @@ Critério 1: Poder salvar e alterar a escala de trabalho do motorista.Atualizar 
 Critério 1: listar as entregas com problemas.
 Observações: Utilizar icones intuitivos.
 
-## US10: Como Adminstrador quero ser capaz de verificar a localização do motorista então estarei sabendo o progreço da entrega.
+## US10: Como Adminstrador quero ser capaz de verificar a localização do motorista então estarei sabendo o progresso da entrega.
 
 - Na tela do motorista(US05) mostrar ultima localização do motorista.
 
